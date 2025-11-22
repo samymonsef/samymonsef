@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard of Registered pesticides in Egypt",
+  "description": "An interactive tool to upload and view data from Excel spreadsheets (.xlsx, .xls) directly in your browser. Upload an Excel file to see its contents displayed in a clean, user-friendly table. أداة تفاعلية لتحميل وعرض البيانات من جداول بيانات Excel مباشرة في متصفحك. قم بتحميل ملف اكسيل لعرض محتوياته في جدول منظم وسهل الاستخدام.",
+  "requestFramePermissions": []
+}
